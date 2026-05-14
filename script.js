@@ -2,9 +2,9 @@
 // AUDIO
 // ==========================
 const bgm        = new Audio("audio/bgm.mp3");
-const bunyiClick = new Audio("audio/click.mp3");
-const bunyiBetul = new Audio("audio/betul.mp3");
-const bunyiSalah = new Audio("audio/salah.mp3");
+const bunyiClick = new Audio("audio/click.MP3");
+const bunyiBetul = new Audio("audio/betul.MP3");
+const bunyiSalah = new Audio("audio/salah.MP3");
 
 bgm.volume = 0.3;
 bgm.loop   = true;
